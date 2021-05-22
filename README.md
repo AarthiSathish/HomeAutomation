@@ -1,2 +1,2 @@
 # HomeAutomation
-Home Automation using Arduino, NodeMcu controlled using a mobile App.
+Home Automation using Arduino, NodeMcu controlled using an Android App.
